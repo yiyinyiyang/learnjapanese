@@ -1,14 +1,17 @@
 # learnjapanese
 second language learning japanese (standard japanese second edition) 
-## 1 course
+# Summary for 6 courses of the standard japanese 
 
-## 2 course
+## 1 
+Pronunciation  
+## 2 
+Words
+## 3 
+Phrases&Sentences
+## 4 
+Grammar
+## 5 
+Tips
 
-## 3 course
 
-## 4 course
-
-## 5 course
-
-## 6 course
 
